@@ -22,4 +22,4 @@ uN: find all locations where they took a picture
 ----------------------------
 
 SELECT COUNT(location_name) 
-GROUP BY user_id 
+GROUP BY user_id !
